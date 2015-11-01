@@ -1,0 +1,3 @@
+# GetProperty
+Readme :D
+
